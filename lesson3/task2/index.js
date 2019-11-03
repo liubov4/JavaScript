@@ -29,15 +29,15 @@ console.log("'      ' to number is " + Number('      '));
 console.log("'   30d   ' to number is " + Number('   30d   '));
 
 null
-console.log('null to boolean is ' + Boolean('null'));
+console.log('null to boolean is ' + Boolean(null));
 undefined
-console.log('undefined to boolean is ' + Boolean('undefined'));
+console.log('undefined to boolean is ' + Boolean(undefined));
 0
-console.log('0 to boolean is ' + Boolean('0')); -
+console.log('0 to boolean is ' + Boolean(0)); -
 0
-console.log('-0 to boolean is ' + Boolean('-0'));
+console.log('-0 to boolean is ' + Boolean(-0));
 NaN
-console.log('NaN to boolean is ' + Boolean('NaN'));
+console.log('NaN to boolean is ' + Boolean(NaN));
 ''
 console.log("'' to boolean is " + Boolean(''));
 ' '
