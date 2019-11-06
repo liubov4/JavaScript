@@ -5,4 +5,4 @@ while (n > 0) {
     sum += n;
     n -= 1;
 }
-console.log(sum);
+console.log('Result: ' + sum);
