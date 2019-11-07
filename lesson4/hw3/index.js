@@ -1,7 +1,6 @@
 const m = 0;
 const n = 1000;
 let sum = 0;
-let result = 0;
 const j = 5000;
 
 for (let i = m; i <= n; i++) {
