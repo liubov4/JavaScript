@@ -1,4 +1,4 @@
-const m = 10;
+const m = 0;
 const n = 15;
 let res = 1;
 
@@ -24,3 +24,4 @@ for (let i = m; i <= n; i++) {
         continue;
     }
 }
+console.log("Result: ", +res);
