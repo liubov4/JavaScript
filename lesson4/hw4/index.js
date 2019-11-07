@@ -3,7 +3,7 @@ let sum = 0;
 let i = 1;
 
 while (i <= n) {
-    sum += String(i);
+    sum += i;
     i += 1;
 
 
